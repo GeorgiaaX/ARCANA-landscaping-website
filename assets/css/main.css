@@ -3660,7 +3660,7 @@ input, select, textarea {
 
 			.image.featured1 {
 				display: inline-block;
-				margin: 0 0 2em 2em;
+				margin: 0 0 2em 1.5em;
 				height: 12em;
 				width: 18em;
 				border-radius: 8%;
@@ -3674,7 +3674,7 @@ input, select, textarea {
 				border-radius: 8%;
 			}
 
-			.image.featured2 {
+			.image.featured3 {
 				display: inline-block;
 				margin: 0 0 2em 2em;
 				height: 12em;
@@ -3682,7 +3682,7 @@ input, select, textarea {
 				border-radius: 8%;
 			}
 
-			.image.featured2 {
+			.image.featured4 {
 				display: inline-block;
 				margin: 0 0 2em 2em;
 				height: 12em;
