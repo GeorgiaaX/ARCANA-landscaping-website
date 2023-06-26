@@ -3678,16 +3678,16 @@ input, select, textarea {
 				display: inline-block;
 				margin: 0 0 2em 2em;
 				height: 12em;
-				width: 18em;
-				border-radius: 8%;
+				width: 16em;
+				border-radius: 50%;
 			}
 
 			.image.featured4 {
 				display: inline-block;
 				margin: 0 0 2em 2em;
 				height: 12em;
-				width: 18em;
-				border-radius: 8%;
+				width: 16em;
+				border-radius: 50%;
 			}
 
 			.services {
